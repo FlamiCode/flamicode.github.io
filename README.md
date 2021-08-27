@@ -4,4 +4,4 @@
 Welcome to my Github Page! This is where I work on things &
 Put them out for people to use, Including elp with my new game,
 
-[ S Y S T E M  A T T A C K ] 
+[ SYSTEM ATTACK ] 
